@@ -1,4 +1,4 @@
-setuptools==69.1.0
+setuptools==70.0.0
 palworld_save_tools==0.23.1
 wheel==0.42.0
 Flask==3.0.2
